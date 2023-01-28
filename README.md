@@ -21,3 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site Barbearia Alura é um site construido para fins didáticos, iniciando com as técnologias HTML e CSS
 
+- [Visite o projeto online] (https://patrickpicon.github.io/barbearia_alura/)
